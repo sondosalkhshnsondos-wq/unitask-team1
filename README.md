@@ -2,7 +2,7 @@
 
 ## 👥 Team Members
 - Product Owner: [سندس]
-- Developer: [راما]
+- Developer: [SONDOS]
 
 ## 📋 Week 1 Plan
 - [ ] Write 5 User Stories
