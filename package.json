@@ -1,15 +1,10 @@
 {
   "name": "unitask",
   "version": "1.0.0",
-  "description": "UniTask Student Task Manager",
   "scripts": {
-    "test": "jest --testPathPattern=test/"
+    "test": "jest"
   },
   "devDependencies": {
-    "jest": "^29.0.0"
-  },
-  "jest": {
-    "testEnvironment": "node",
-    "testMatch": ["**/test/**/*.test.js"]
+    "jest": "^27.0.0"
   }
 }
